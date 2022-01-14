@@ -1,0 +1,6 @@
+#we don't need to track theese
+*.o
+*.a
+infile*
+outfile*
+minishell
